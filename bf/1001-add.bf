@@ -12,4 +12,3 @@
 ------------------------------------------------ ; subtract 48
 				(like subtracting '0')
 .       ; print p1
-Footer
